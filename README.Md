@@ -1,4 +1,6 @@
-"An extensible AI reasoning platform with function calling, React UI, and future-ready support for RAG, MCP, and databases."
+# Reasoner AI
+
+## **An Extensible AI Reasoning Platform with Function Calling, React UI, and Future-Ready Support for RAG, MCP, and Databases**
 
 ![alt text](image.png)
 
