@@ -59,28 +59,15 @@ reasoner-ai/
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/reasoner-ai.git
+git clone https://github.com/KM-Mozammel/reasoner.git
 
-Navigate to project directory:
+Navigate to project directory: cd reasoner-ai
+Install backend dependencies : pip install -r requirements.txt
+Install frontend dependencies: cd frontend
+                               npm install
 
-cd reasoner-ai
-
-Install backend dependencies:
-
-pip install -r requirements.txt
-
-Install frontend dependencies:
-
-cd frontend
-npm install
-
-Run backend:
-
-python main.py
-
-Run frontend:
-
-npm start
+Run backend : uvicorn api.main:app --reload
+Run frontend: npm start
 
 ## Vision
 
